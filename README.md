@@ -32,7 +32,7 @@ A Janaína permite agendar atendimento bancário com horário e agência escolhi
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
-- [Figma](https://www.figma.com/make/vKfsnTohak2csIwE4zaq7M/App-Jana%C3%ADna-de-Agendamentos?t=PMnQGhm7MH1jl56s-1)
+- [Figma](https://www.figma.com/make/vKfsnTohak2csIwE4zaq7M/App-Jana%C3%ADna-de-Agendamentos?t=PMnQGhm7MH1jl56s-1) (Link do protótipo)
 
 ## Como rodar o projeto
 
