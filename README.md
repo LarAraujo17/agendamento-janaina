@@ -5,7 +5,7 @@ Protótipo navegável do assistente de agendamento da Janaína (Banco do Brasil)
 ## Como rodar
 ```
 npm install
-npx expo start
+npx expo start ou npx expo start --tunnel
 ```
 Depois escaneie o QR code com o Expo Go, ou use `npm run android`, `npm run ios` ou `npm run web`.
 
